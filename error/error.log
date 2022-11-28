@@ -1,0 +1,5 @@
+2019-03-31 12:48:31 SELECT(PDO): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nepalnews.news' doesn't exist
+2019-04-02 13:04:53 INSERT(PDO): SQLSTATE[01000]: Warning: 1265 Data truncated for column 'status' at row 1
+2019-04-02 13:23:59 SELECT(PDO): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nepalnews.galleries' doesn't exist
+2019-04-03 13:18:40 SELECT(PDO): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nepalnews.videos' doesn't exist
+2019-04-03 13:40:08 INSERT(PDO): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'link' in 'field list'
